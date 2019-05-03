@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Random NAB Verse</string>
+    <string name="action_settings">About</string>
+    <string name="tolle_et_lege">Tolle et Lege!</string>
+    <string name="get_random_nab_verse">Get Random N.A.B. Verse</string>
+    <string name="only_one_verse_per_day">Only one verse per day!</string>
+    <string name="time">time</string>
+    <string name="verse">verse</string>
+    <string name="nowAvailable">Verse now available.</string>
+    <string name="help">Random New American Bible Verse is based on the New American Bible available at the United States Conference of Catholic Bishops website, usccb.org/bible.\n\n
+
+    The background image is Pope St. Damasus I.  The image was taken from the website of Verde Azzurro Notizie, https://www.verdeazzurronotizie.it/, accessed on April 20, 2019.\n\n
+
+    This app is meant to give you one random New American Bible verse per day.\n\n
+
+    The verse itself is not given to you in the app; you have to get it yourself.  Consider picking up a physical Bible!\n\n
+
+    Tolle et Lege!</string>
+</resources>
